@@ -1,0 +1,8 @@
+-- Haskell Playground 1.0
+import Data.List ((\\))
+
+"hx" Data.List.\\ "hello"
+
+"hl" Data.List.\\ "hello"
+
+"hhl" Data.List.\\ "hello"
