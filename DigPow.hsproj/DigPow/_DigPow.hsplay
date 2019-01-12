@@ -1,0 +1,5 @@
+-- Haskell Playground 1.0
+digpow 89 1
+digpow 92 1
+digpow 695 2
+digpow 46288 3
